@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604300014011.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "604769622",
+    "id" : "365DE0F3",
+    "lastKnownWriteTime" : 1604305945,
+    "last_content_update" : 1604305945580,
+    "path" : "C:/Users/user/Desktop/비대면/6시그마/SixSigma_jbnu/sixsigma_r/middletest.R",
+    "project_path" : "middletest.R",
+    "properties" : {
+        "cursorPosition" : "10,58",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

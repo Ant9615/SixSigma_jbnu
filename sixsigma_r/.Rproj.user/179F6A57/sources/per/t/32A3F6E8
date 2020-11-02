@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604300123884.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "32A3F6E8",
+    "lastKnownWriteTime" : 1604300022,
+    "last_content_update" : 1604300123884,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E89ED254",
+        "caption" : "camshft",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=camshft&cache_key=E89ED254",
+        "displayedObservations" : 100,
+        "environment" : "",
+        "expression" : "camshft",
+        "object" : "camshft",
+        "preview" : 0,
+        "totalObservations" : 100,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
