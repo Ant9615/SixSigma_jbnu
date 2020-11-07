@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604743503532.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2310931531",
+    "id" : "3B14AF16",
+    "lastKnownWriteTime" : 1604745868,
+    "last_content_update" : 1604745868855,
+    "path" : "C:/Users/user/Desktop/비대면/6시그마/SixSigma_jbnu/sixsigma_r/6시그마_8주차_201510336_구경민_R코드.R",
+    "project_path" : "6시그마_8주차_201510336_구경민_R코드.R",
+    "properties" : {
+        "cursorPosition" : "27,45",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
